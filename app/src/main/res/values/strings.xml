@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiffUtilsRecyclerView</string>
+    <string name="sort_by_name">Sort By Name</string>
+    <string name="sort_by_role">Sort By Role</string>
+    <string name="import_data">Reset Data</string>
+    <string name="snack_bar_text">Record Deleted</string>
+    <string name="snack_bar_undo">Undo</string>
+</resources>
